@@ -1,0 +1,14 @@
+body {
+	background-color: gray;
+}
+#footer {
+	text-align: center;
+}
+
+#dropdownList {
+
+}
+
+li {
+	list-style-type: none;
+}
